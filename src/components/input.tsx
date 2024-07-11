@@ -39,6 +39,6 @@ function Field({ ...rest }: TextInputProps) {
 }
 
 
-Input.Filed = Field
+Input.Field = Field
 
 export { Input }
